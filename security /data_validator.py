@@ -1,5 +1,5 @@
 # Vanguard Intel - Oil Data Security Validator
-# Checks incoming oil invenotry data before it enters the LLM pipeline.
+# Checks incoming oil inventory data before it enters the LLM pipeline.
 
 TRUSTED_SOURCES = ["EIA", "API", "VANGUARD_INTEL"]
 
