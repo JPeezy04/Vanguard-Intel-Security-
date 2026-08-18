@@ -39,7 +39,7 @@ def validate_oil_data(data):
 oil_data = {
     "source": "EIA",
     "date": "2026-08-13",
-    "inventory": 50001,
+    "inventory": 50000,
     "unit": "barrels"
 }
 
